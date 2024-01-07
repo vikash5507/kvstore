@@ -64,4 +64,4 @@ apply plugin: 'idea'
 
 mainClassName = "io.grpc.examples.KvRunner"
 
-applicationDefaultJvmArgs = ["-Xmx8g", "-Xms8g"]
+applicationDefaultJvmArgs = ["-Xmx4g", "-Xms4g"]
